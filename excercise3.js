@@ -5,7 +5,7 @@ function showClubName() {
 
 // Function using return
 function getClubName() {
-    return "Chess Club";
+    return "monty's Chess Club";
 }
 
 // Store results
@@ -24,5 +24,5 @@ function createClubMessage(clubName, meetingDay, isOpen) {
     }
 }
 
-let message = createClubMessage("chess Club", "Friday", true);
+let message = createClubMessage("monty's chess Club", "Friday", true);
 console.log(message);
