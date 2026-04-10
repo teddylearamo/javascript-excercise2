@@ -1,6 +1,6 @@
 // Variables
 let travelerName = "Teddy";
-let destination = "Dubai";
+let destination = "spain";
 let month = "December";
 let hasPassport = true;
 
